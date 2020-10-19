@@ -31,7 +31,7 @@ html, body {
 }
 
 .nav a{
-    position: absolute;
+    position: relative;
 	text-decoration:none;
     font-size: 28px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -45,6 +45,7 @@ html, body {
     line-height:90px;
     text-align:center;
     transition:300ms;
+	z-index : 1;
 }
 
 {
