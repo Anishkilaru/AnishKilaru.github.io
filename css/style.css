@@ -76,7 +76,7 @@ a.active, .nav a:hover{
 }
 
 .content{
-   position: relative;;
+   position: absolute;;
     width:1230px;
     min-height: 700px;
     height: auto;
@@ -87,7 +87,7 @@ a.active, .nav a:hover{
 }
 
 .home{
-    position: relative;
+    position: absolute;
     right:0;
     bottom:20px;
     color:white;
@@ -110,7 +110,7 @@ a.active, .nav a:hover{
 
 .aboutme{
     
-    position: relative;
+    position: absolute;
     right:0;
     top:10px;
     color:White;
@@ -126,7 +126,7 @@ a.active, .nav a:hover{
 }
 
 .skills{
-   position: relative;
+   position: absolute;
    right:0;
    top:5px;
    color:white;
@@ -154,7 +154,7 @@ a.active, .nav a:hover{
 }
 
 .contactanish{
-    position: relative;
+    position: absolute;
     right:0;
     top:10px;
     padding:0 60px;
